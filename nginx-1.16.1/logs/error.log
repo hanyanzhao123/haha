@@ -1,0 +1,9 @@
+2019/08/24 11:13:45 [error] 6124#3512: *1 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2019/08/24 11:25:27 [notice] 5528#7940: signal process started
+2019/08/24 11:30:26 [notice] 7588#7568: signal process started
+2019/08/24 11:46:35 [notice] 6576#1532: signal process started
+2019/08/24 17:48:27 [error] 7152#7032: *6 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/ele/lala" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ele/lala HTTP/1.1", host: "127.0.0.1"
+2019/08/24 17:48:34 [error] 7152#7032: *7 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/ele" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ele HTTP/1.1", host: "127.0.0.1"
+2019/08/24 17:53:30 [error] 7152#7032: *8 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/ele/lala" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ele/lala HTTP/1.1", host: "127.0.0.1"
+2019/08/24 17:59:15 [error] 7152#7032: *9 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/ele/lala" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ele/lala HTTP/1.1", host: "127.0.0.1"
+2019/08/24 18:04:26 [error] 7152#7032: *10 CreateFile() "D:\three index\vue\xiangmu\nginx-1.16.1/html/ele/lala" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ele/lala HTTP/1.1", host: "127.0.0.1"
